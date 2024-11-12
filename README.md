@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Aspiring software developer and systems development student with a strong foundation in Java and Python, currently expanding my skills in C#. I’m passionate about coding, problem-solving, and ensuring high-quality software through rigorous testing practices. Always eager to learn and develop new skills, I’m excited to connect with professionals and contribute to projects that push the boundaries of software development.
+Aspiring software developer/tester and systems development student with a strong foundation in Java and Python, currently expanding my skills in C#. I’m passionate about coding, problem-solving, and ensuring high-quality software through rigorous testing practices. Always eager to learn and develop new skills, I’m excited to connect with professionals and contribute to projects that push the boundaries of software development.
 <!--
 **SifisoShaun/SifisoShaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
