@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sifiso Shaun Manganye</h1>
-<h3 align="center">🔹 Aspiring Software Developer & Tester | Java, Python & C# | Focused on Quality Software 🔹</h3>
+<h3 align="center">🔹Aspiring Software Developer & Tester | Java, Python & C# | Focused on Quality Software 🔹</h3>
 
 <p align="left">
 
