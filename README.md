@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sifiso Shaun Manganye</h1>
-<h3 align="center">Aspiring Software Developer/Tester & Systems Development Student at WeThinkCode_</h3>
+<h3 align="center">🔹 Aspiring Software Developer & Tester | Java, Python & C# | Focused on Quality Software 🔹</h3>
 
 <p align="left">
-  I am an aspiring software developer and tester with a strong foundation in Java and Python, currently expanding my expertise in C#. As a student of Systems Development at WeThinkCode_, I am passionate about coding, problem-solving, and ensuring high-quality software through rigorous testing practices. I am dedicated to continuous learning and growth, and I am eager to connect with industry professionals and contribute to innovative projects that push the boundaries of software development.
+
+I’m an aspiring software developer and tester with a strong foundation in Java and Python, and a growing command of C#. I’m passionate about turning ideas into working code and ensuring that every solution is robust, scalable, and well-tested.
+With hands-on exposure to both coding and testing, I bring a detail-oriented mindset and a love for continuous learning. I’m eager to collaborate, grow, and contribute to projects where I can build reliable and impactful software—while continuing to sharpen my skills.
+Let’s connect and create something great together.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
